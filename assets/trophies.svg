@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="128" viewBox="0 0 880 128" fill="none">
+  <defs>
+    <linearGradient id="tgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#BC8CFF"/>
+      <stop offset="1" stop-color="#FF7B72"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="878" height="126" rx="18" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Trofeo 1: 1er commit -->
+  <g transform="translate(110,64)">
+    <circle r="38" fill="#161b22" stroke="#58A6FF" stroke-width="2"/>
+    <text y="9" text-anchor="middle" font-size="30">🌱</text>
+    <text x="0" y="58" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" fill="#c9d1d9">Primer commit</text>
+    <text x="0" y="74" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="10" fill="#8b949e">Mar 2025</text>
+  </g>
+
+  <!-- Trofeo 2: Bot master -->
+  <g transform="translate(300,64)">
+    <circle r="38" fill="#161b22" stroke="#BC8CFF" stroke-width="2"/>
+    <text y="9" text-anchor="middle" font-size="30">🤖</text>
+    <text x="0" y="58" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" fill="#c9d1d9">Bot Master</text>
+    <text x="0" y="74" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="10" fill="#8b949e">+10 bots en prod</text>
+  </g>
+
+  <!-- Trofeo 3: Termux ninja -->
+  <g transform="translate(490,64)">
+    <circle r="38" fill="#161b22" stroke="#FF7B72" stroke-width="2"/>
+    <text y="9" text-anchor="middle" font-size="30">📱</text>
+    <text x="0" y="58" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" fill="#c9d1d9">Termux Ninja</text>
+    <text x="0" y="74" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="10" fill="#8b949e">32 bits sin miedo</text>
+  </g>
+
+  <!-- Trofeo 4: Gym coder -->
+  <g transform="translate(680,64)">
+    <circle r="38" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+    <text y="9" text-anchor="middle" font-size="30">🏋️</text>
+    <text x="0" y="58" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" font-weight="700" fill="#c9d1d9">Iron Coder</text>
+    <text x="0" y="74" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="10" fill="#8b949e">Gym + código</text>
+  </g>
+</svg>
