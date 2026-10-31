@@ -45,17 +45,6 @@
   <img src="https://img.shields.io/badge/Intereses-IA_y_APIs-8A63D2?style=flat-square" alt="Inteligencia artificial y APIs" />
 </p>
 
-## Proyectos
-
-| Proyecto | Qué es |
-|---|---|
-| [IroS3Dl](https://github.com/juanbas2005/IroS3Dl) | Gestor de descargas Android para S3/ToDus, escrito en Kotlin. |
-| [todus-s3-api](https://github.com/juanbas2005/todus-s3-api) | Documentación y ejemplos para la API de ToDus S3. |
-| [xkiro-pi-integration](https://github.com/juanbas2005/xkiro-pi-integration) | Integración de Xkiro con pi-coding-agent. |
-| [ponytail](https://github.com/juanbas2005/ponytail) | Instrucciones para que un agente de programación trabaje con pragmatismo. |
-| [github-console](https://github.com/juanbas2005/github-console) | Terminal web interactiva basada en GitHub Actions. |
-| [telegram-s3-cleaner](https://github.com/juanbas2005/telegram-s3-cleaner) | Herramienta para limpiar archivos de Telegram S3. |
-
 <p align="center"><img src="https://raw.githubusercontent.com/juanbas2005/juanbas2005/main/assets/separator.svg" width="100%" alt="Separador" /></p>
 
 ## 📊 Mi actividad en GitHub
