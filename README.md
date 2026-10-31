@@ -58,20 +58,30 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/juanbas2005/juanbas2005/main/assets/separator.svg" width="100%" alt="Separador" /></p>
 
-## Actividad y estadísticas
+## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbas2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbas2005&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Lenguajes más usados" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Mis+estad%C3%ADsticas+de+GitHub;Lenguajes+que+m%C3%A1s+uso;Cada+contribuci%C3%B3n+cuenta+%F0%9F%90%8D" alt="Animación: estadísticas, lenguajes y contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanbas2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="Estadísticas generales de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbas2005&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Lenguajes más usados en mis repositorios públicos" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanbas2005&theme=github-dark-blue&hide_border=true" width="70%" alt="Racha de contribuciones en GitHub" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbas2005/juanbas2005/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbas2005/juanbas2005/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/juanbas2005/juanbas2005/output/github-contribution-grid-snake.svg" width="100%" alt="Animación de serpiente recorriendo las contribuciones de GitHub" />
+    <img src="https://raw.githubusercontent.com/juanbas2005/juanbas2005/output/github-contribution-grid-snake.svg" width="100%" alt="Animación de serpiente recorriendo mis contribuciones de GitHub" />
   </picture>
 </p>
+
+<p align="center"><sub>Las tarjetas muestran datos dinámicos de mis repositorios públicos. La serpiente y el texto superior aportan las animaciones compatibles con GitHub.</sub></p>
 
 ## Música para programar
 
